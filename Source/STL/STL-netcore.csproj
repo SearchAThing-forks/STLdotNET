@@ -9,7 +9,7 @@
         <Authors>Quantum Concepts</Authors>
         <PackageTags>3d reprap stl</PackageTags>
         <PackageProjectUrl>https://github.com/SearchAThing-forks/STLdotNET</PackageProjectUrl>
-        <PackageLicenseExpression>LICENSE.txt</PackageLicenseExpression>
+        <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
     </PropertyGroup>
     <ItemGroup>        
         <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />        
